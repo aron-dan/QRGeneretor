@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRCodeGeneretor", "QRCodeGeneretor\QRCodeGeneretor.csproj", "{243B6A66-2917-46CA-B14B-75F0C5973D1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entites", "Entites\Entites.csproj", "{329C8DFD-A51C-4CA6-AC69-B2EBB3BE3589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoQR.Net", "GoQR.Net\GoQR.Net.csproj", "{E1BBFABC-B58D-49C1-8A80-A1186E02F7A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243B6A66-2917-46CA-B14B-75F0C5973D1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243B6A66-2917-46CA-B14B-75F0C5973D1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243B6A66-2917-46CA-B14B-75F0C5973D1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243B6A66-2917-46CA-B14B-75F0C5973D1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{329C8DFD-A51C-4CA6-AC69-B2EBB3BE3589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329C8DFD-A51C-4CA6-AC69-B2EBB3BE3589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329C8DFD-A51C-4CA6-AC69-B2EBB3BE3589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329C8DFD-A51C-4CA6-AC69-B2EBB3BE3589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1BBFABC-B58D-49C1-8A80-A1186E02F7A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1BBFABC-B58D-49C1-8A80-A1186E02F7A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1BBFABC-B58D-49C1-8A80-A1186E02F7A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1BBFABC-B58D-49C1-8A80-A1186E02F7A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9843A141-F977-41BA-A553-86E84143859C}
+	EndGlobalSection
+EndGlobal
